@@ -1,5 +1,13 @@
 # ClientesApp
 
+Sobre o desafio: Transformar em APIs o projeto de Ingressos, sendo necessário:
+
+Utilização de Spring Boot
+Criação de um projeto novo
+Reutilização dos models e acesso a banco de dados
+Utilização dos métodos HTTP de forma correta
+
+
 Para rodar esse projeto: 
 Baixo a aplicação Spring e a aplicação Angular, rode a aplicação do Spring, vá no CMD ou outro interpretador de linha de comando, e de um CD para dentro da pasta "clientes-app" depois digite NPM INSTALL esse comando vai baixar todas as deependencias que o projeto Angular precisa, depois de baixar utilize o comando NG SERVE --OPEN
 
